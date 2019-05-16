@@ -1,4 +1,5 @@
 # tensorflow-textgenrnn-gpu
+Last updated: 2019/05/16
 
 This repository creates a docker container with a customized tensorflow version with suport for GPU compute 3.0 and [textgenrnn](https://github.com/minimaxir/textgenrnn) to develop deep learning text analysis.
 
